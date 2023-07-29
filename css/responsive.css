@@ -1,0 +1,367 @@
+@media (max-width:320.98px) {
+    .navbar-nav .nav-item .nav-link {
+        padding-left: 0px;
+    }
+    #banner {
+        padding: 100px 0 50px 0;
+        text-align: center;
+    }
+    .banner_main .banner_info p {
+        font-size: 13px;
+        letter-spacing: 0px;
+    }
+    .banner_main .banner_info h1 {
+        font-size: 50px;
+    }
+    .banner_main .banner_info span {
+        font-size: 50px;
+    }
+    #holiday {
+        padding: 50px 0;
+    }
+    .holiday_info .holi_tittle {
+        font-size: 13px;
+        letter-spacing: 0px;
+    }
+    .holiday_info h2 {
+        font-size: 25px;
+        padding: 10px 0;
+    }
+    .holiday_info p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #together {
+        padding: 50px 0;
+    }
+    .together_info {
+        padding-top: 55px;
+    }
+    .together_info span {
+        font-size: 13px;
+    }
+    .together_info h2 {
+        font-size: 25px;
+        padding: 10px 0;
+    }
+    .together_info p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    #people {
+        padding: 50px 0;
+    }
+    .people_main .people_info {
+        padding-top: 0px;
+        text-align: center;
+    }
+    .people_main .people_info span {
+        font-size: 13px;
+    }
+    .people_main .people_info h2 {
+        font-size: 25px;
+        padding: 10px 0;
+    }
+    .people_main .people_info p {
+        font-size: 13px;
+        line-height: 20px;
+        padding-right: 0px;
+    }
+    #footer {
+        padding: 20px 0;
+    }
+    .day h4 {
+        font-size: 26px;
+        padding: 0;
+    }
+    .day span {
+        font-size: 13px;
+    }
+    .day .icon a {
+        font-size: 25px;
+        padding-right: 15px;
+    }
+    .footer_right .span_btn span {
+        font-size: 13px;
+    }
+    .footer_right .span_btn button {
+        padding: 10px 25px;
+    }
+    .footer_right .ul_li .item h6 {
+        font-size: 16px;
+    }
+    .footer_right .ul_li .item ul li {
+        font-size: 13px;
+    }
+    .footer_main .copy_right span {
+        font-size: 15px;
+    }
+}
+@media (min-width:321px) and (max-width:576.98px) {
+    #banner {
+        padding: 110px 0;
+        text-align: center;
+    }
+    .banner_main .banner_info p {
+        font-size: 15px;
+    }
+    .banner_main .banner_info h1 {
+        font-size: 80px;
+    }
+    .banner_main .banner_info span {
+        font-size: 60px;
+    }
+    #holiday {
+        padding: 50px 0;
+    }
+    .holiday_main .holiday_img img {
+        width: 100%;
+    }
+    .holiday_info {
+        padding: 15px 0;
+        text-align: center;
+    }
+    .holiday_info .holi_tittle {
+        font-size: 16px;
+        letter-spacing: 5px;
+    }
+    .holiday_info h2 {
+        font-size: 50px;
+        padding: 10px 0;
+    }
+    .holiday_info p {
+        font-size: 13px;
+        line-height: 27px;
+    }
+    #together {
+        padding: 50px 0;
+    }
+    .together_info {
+        padding-top: 60px;
+    }
+    .together_info h2 {
+        font-size: 45px;
+        padding: 10px 0;
+    }
+    .together_info p {
+        font-size: 13px;
+        line-height: 27px;
+    }
+    #people {
+        padding: 50px 0;
+        text-align: center;
+    }
+    .people_main .people_info h2 {
+        font-size: 45px;
+        padding: 10px 0;
+    }
+    .people_main .people_info p {
+        font-size: 13px;
+        line-height: 27px;
+        padding-right: 0px;
+    }
+    #footer {
+        padding: 40px 0;
+    }
+    .day h4 {
+        font-size: 25px;
+        padding: 10px 0px 10px 0;
+    }
+    .day .icon {
+        padding: 10px 0;
+        text-align: center;
+    }
+    .footer_right .span_btn {
+        justify-content: center;
+    }
+    .footer_right .span_btn span {
+        font-size: 16px;
+    }
+    .footer_right .span_btn button {
+        padding: 10px 25px;
+    }
+    .footer_right .ul_li .item h6 {
+        font-size: 18px;
+    }
+    .footer_right .ul_li .item ul li {
+        font-size: 15px;
+        padding: 3px 0;
+    }
+    .footer_main .copy_right span {
+        font-size: 16px;
+    }
+}
+@media (min-width:577px) and (max-width:768.98px){
+    #banner {
+        padding: 130px 0;
+        text-align: center;
+    }
+    .banner_main .banner_info p {
+        font-size: 15px;
+        letter-spacing: 5px;
+    }
+    .banner_main .banner_info span {
+        font-size: 60px;
+    }
+    .holiday_info {
+        padding: 0px 0;
+    }
+    .holiday_info .holi_tittle {
+        font-size: 15px;
+        letter-spacing: 4px;
+    }
+    .holiday_info h2 {
+        font-size: 35px;
+        padding: 10px 0;
+    }
+    .holiday_info p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .holiday_info a {
+        padding: 20px 0;
+        font-size: 14px;
+        line-height: 10px;
+    }
+    #together {
+        padding: 50px 0;
+    }
+    .together_info {
+        padding-top: 50px;
+    }
+    .together_info h2 {
+        font-size: 40px;
+        padding: 10px 0;
+    }
+    .together_info p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .together_info a {
+        padding: 15px 0;
+    }
+    #people {
+        padding:0 0  50px 0;
+        text-align: center;
+    }
+    .people_main .people_info h2 {
+        font-size: 45px;
+        padding: 10px 0;
+    }
+    .people_main .people_info p {
+        font-size: 13px;
+        line-height: 20px;
+        padding-right: 0px;
+    }
+    .people_main .people_info a {
+        padding: 20px 0;
+        font-size: 13px;
+        line-height: 15px;
+    }
+    #footer {
+        padding: 30px 0;
+    }
+    .day h4 {
+        font-size: 30px;
+        padding: 15px 0px 15px 0;
+    }
+    .day .icon {
+        text-align: center;
+    }
+    .footer_right .span_btn {
+        justify-content: center;
+    }
+    .footer_right .span_btn span {
+        font-size: 20px;
+    }
+    .footer_right .span_btn button {
+        padding: 15px 30px;
+    }
+    .footer_right .ul_li .item ul li {
+        font-size: 16px;
+        padding: 4px 0;
+    }
+}
+@media (min-width:769px) and (max-width:992.98px) {
+    #banner {
+        padding: 190px 0;
+        text-align: center;
+    }
+    .banner_lg{
+        margin: 0 auto;
+    }
+    .banner_main .banner_info p {
+        font-size: 16px;
+        letter-spacing: 3px;
+    }
+    .banner_main .banner_info span {
+        font-size: 70px;
+    }
+    #holiday {
+        padding: 70px 0;
+    }
+    .holiday_info .holi_tittle {
+        font-size: 17px;
+        letter-spacing: 5px;
+    }
+    .holiday_info h2 {
+        font-size: 50px;
+        padding: 12px 0;
+    }
+    .holiday_info p {
+        font-size: 13px;
+        line-height: 30px;
+    }
+    .holiday_info a {
+        padding: 20px 0;
+    }
+    #together {
+        padding: 70px 0;
+    }
+    #together {
+        padding: 70px 0;
+    }
+    .together_info h2 {
+        font-size: 40px;
+        padding: 12px 0;
+    }
+    .together_info p {
+        font-size: 13px;
+        line-height: 30px;
+    }
+    .together_info a {
+        padding: 20px 0;
+        line-height: 30px;
+    }
+    #people {
+        padding: 70px 0;
+    }
+    .people_main .people_info {
+        padding-top: 30px;
+    }
+    .people_main .people_info h2 {
+        font-size: 30px;
+        padding: 12px 0;
+    }
+    .people_main .people_info p {
+        line-height: 30px;
+        padding-right: 0px;
+    }
+    #footer {
+        padding: 40px 0;
+    }
+    .day h4 {
+        font-size: 20px;
+        padding: 20px 149px 20px 0;
+    }
+    .footer_right .span_btn span {
+        font-size: 17px;
+    }
+    .footer_right .span_btn button {
+        padding: 18px 25px;
+    }
+    .footer_right .ul_li .item ul li {
+        font-size: 16px;
+        padding: 2px 0;
+    }
+}

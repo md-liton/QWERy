@@ -1,0 +1,289 @@
+/* ALL COMMON CSS PART START */
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+p{
+    margin-bottom: 0;
+}
+/* ALL COMMON CSS PART END */
+
+/* NAVBAR PART START */
+.navbar{
+    padding-top: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.navbar-nav .nav-item .nav-link{
+    padding-left: 30px;
+    text-transform: capitalize;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    transition: all linear .3s;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: black;
+}
+/* NAVBAR PART END */
+
+/* BANNER PART START */
+#banner{
+    padding: 300px 0;
+    background: url(../images/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner_main .banner_info p{
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+.banner_main .banner_info h1{
+    font-size: 96px;
+    font-weight: 700;
+    color: #fff;
+}
+.banner_main .banner_info span{
+    font-size: 88px;
+    font-weight: 400;
+    display: block;
+}
+/* BANNER PART END */
+
+
+/*  HOLIDAY PART START */
+#holiday{
+    padding: 100px 0;
+    background: black;
+}
+.holiday_info .holi_tittle{
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+.holiday_main .holiday_img img{
+    width: 85%;
+}
+.holiday_info{
+    padding: 20px 0;
+}
+.holiday_info h2{
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 0;
+}
+.holiday_info h2 span{
+    display: block;
+}
+.holiday_info p{
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+.holiday_info a{
+    padding: 30px 0;
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #FFC178;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+/*  HOLIDAY PART END */
+
+
+
+
+/* TOGETHER PART START */
+#together{
+    padding: 100px 0;
+    background: black;
+}
+.together_main{
+    background: url(../images/together_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.together_info{
+    text-align: center;
+    padding-top: 225px;
+}
+.together_info span{
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFC178;
+    text-transform: uppercase;
+}
+.together_info h2{
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 0;
+}
+.together_info p{
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+.together_info a{
+    padding: 30px 0;
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #FFC178;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+/* TOGETHER PART END */
+
+
+
+/* PEOPLE PART START */
+#people{
+    padding: 100px 0;
+    background: black;
+}
+.people_main .people_info{
+    padding-top: 60px;
+}
+.people_main .people_info span{
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFC178;
+    text-transform: uppercase;
+}
+.people_main .people_info h2{
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 0;
+}
+.people_main .people_info p{
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    padding-right: 105px;
+}
+.people_main .people_info a{
+    padding: 30px 0;
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #FFC178;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+/* PEOPLE PART END */
+
+/* FOOTER PART START */
+#footer{
+    padding: 80px 0;
+    background: black;
+}
+.day h4{
+    color: #fff;
+    font-size: 36px;
+    font-weight: 700;
+    padding:40px 220px 40px 0;
+}
+.day span{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+.day .icon{
+    padding: 15px 0;
+}
+.day .icon a{
+    color: #fff;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.footer_right .span_btn{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+}
+.footer_right .span_btn span{
+    font-size: 22px;
+    font-weight: 400;
+    color: #fff;
+    text-transform: capitalize;
+}
+.footer_right .span_btn button{
+    padding: 20px 40px;
+    background: #FFA343;
+    border-radius: 10px;
+}
+.footer_right .span_btn button a{
+    font-size: 17px;
+    font-weight: 700;
+    color: black;
+    text-transform: capitalize;
+}
+.footer_right .ul_li{
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_right .ul_li .item h6{
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFA343;
+    text-transform: capitalize;
+}
+.footer_right .ul_li .item ul{
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.footer_right .ul_li .item ul li{
+    font-size: 19px;
+    font-weight: 400;
+    color: #fff;
+    padding: 5px 0;
+}
+.footer_main .copy_right{
+    padding: 20px 0 0 0;
+    display: flex;
+    justify-content: center;
+}
+.footer_main .copy_right span{
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+/* FOOTER PART END */
